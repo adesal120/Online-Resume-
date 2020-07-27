@@ -1,3 +1,2 @@
-# Single-Page-Personal-Website
-A single page website where you can host the content of your resume/CV.
-Built with HTML & CSS and with love from UnderTheRock - I mean Abeokuta
+# Online-Resume
+A single page website for people to host the content of your resume/CV | Built with HTML5 & CSS3.
